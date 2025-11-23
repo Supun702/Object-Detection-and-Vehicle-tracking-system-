@@ -1,5 +1,5 @@
 ist you need to import these libraryes to your intepreter. please don't use newer python version that can face a lot of errors. 1st I was also use python 3.14 . it also faced errors. 
-# Object Detection Course
+# Object Detection
  
 cvzone==1.5.6
 ultralytics==8.0.26
